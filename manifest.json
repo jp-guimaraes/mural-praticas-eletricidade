@@ -1,0 +1,15 @@
+{
+  "name": "Práticas de Eletricidade",
+  "short_name": "Práticas de Eletricidade",
+  "start_url": "/mural-praticas-eletricidade/",
+  "scope": "/mural-praticas-eletricidade/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/mural-praticas-eletricidade/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
